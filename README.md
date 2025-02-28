@@ -12,6 +12,9 @@ AI Translator is a web-based application designed to provide real-time language 
 - **🌙 Dark Mode**: Supports dark mode for better usability in low-light conditions.
 - **🛠️ Lightweight & Efficient**: Optimized for fast performance with minimal resource usage.
 
+## 🌐 Live Demo
+Check out the live version of **AI Translator** here: [AI Translator Website](https://translator-beta-six.vercel.app/)
+
 ## 🛠️ Technologies Used
 - **🦾 TypeScript**: Ensures strong typing and improved development experience.
 - **📜 HTML**: Provides the basic structure of the web application.
@@ -28,6 +31,15 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## 📜 License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+### ✨ Author
+Developed by **Janhavi**.
+
+For any inquiries or feature requests, feel free to reach out! 😊
+
+
 
 
 
